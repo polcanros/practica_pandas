@@ -1,9 +1,10 @@
-# Practica Pandas - Matching alumnos y notas
+# Práctica Pandas - Juntar alumnos y notas
 
-Este proyecto lee datos de alumnos y notas desde archivos CSV, genera informes unificados en CSV y JSON, y crea una grafica con la media por actividad.
+## Cómo ejecutar el programa
 
-## Instalacion de dependencias
+1. Asegúrate de tener instaladas las dependencias ejecutando: `pip install -r requirements.txt`
+2. Ejecuta el archivo principal desde la terminal: `python main.py`
 
-Para instalar las librerias necesarias, ejecuta:
-```bash
-pip install -r requirements.txt
+## Conclusión del gráfico de medias
+
+El gráfico muestra la nota media obtenida por los alumnos con las tres actividades completadas. Se observa una tendencia ascendente en el rendimiento, destacando la Actividad 3 con la puntuación media más alta.
