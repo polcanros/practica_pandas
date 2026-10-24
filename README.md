@@ -9,11 +9,7 @@
 
 El gráfico muestra la nota media obtenida por los alumnos con las tres actividades completadas. Se observa una tendencia ascendente en el rendimiento, destacando la Actividad 3 con la puntuación media más alta.
 
-
-                                                                                                    
-                                                                                                                                                     
-                                                                                                                                                     
-                                                                                                                                                     
+                                                                          
                                                                                                                         ============                 
                                                                                                                        ===============               
                                                                                                                       === ============               
